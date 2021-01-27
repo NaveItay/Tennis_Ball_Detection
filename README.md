@@ -27,11 +27,57 @@
    
    
    
-   # 
-   ###### Splitting the frame into color layers
-   >  ![title](/Images/frames.PNG)
-   >
-   >
+# 
+###### Splitting the frame into color layers
+>  ![title](/Images/RGB_layers.PNG)
+>
+
+###### RGB histograms
+> ![title](/Images/hist.PNG)
+>
+
+###### Set a custom threshold for creating the masks
+> ![title](/Images/threshold_for_masks.PNG)
+>
+ 
+###### Color masks
+> ![title](/Images/RGB_Masks.PNG)
+>
+
+###### Morphological operations
+>      - bwareaopen
+>        - Remove small objects from binary image
+>           ![title](/Images/RGB_Masks.PNG)
+>
+>      - imclose
+>        - Remove small objects from binary image
+>          ![title](/Images/imclose.PNG)
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+###### Color masks
+> ![title](/Images/RGB_Masks.PNG)
+>
+
+###### Color masks
+> ![title](/Images/RGB_Masks.PNG)
+>
+
+###### Color masks
+> ![title](/Images/RGB_Masks.PNG)
+>
+
+###### Color masks
+> ![title](/Images/RGB_Masks.PNG)
+>
    
    
    
