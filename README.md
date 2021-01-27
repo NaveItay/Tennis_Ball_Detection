@@ -45,11 +45,12 @@
 
 ###### Morphological operations
 > * bwareaopen - Remove small objects from binary image
->     ![title](/Images/RGB_Masks.PNG)
->
+>       
+>   ![title](/Images/RGB_Masks.PNG)
+>       
 > * imclose - Remove small objects from binary image
->     ![title](/Images/imclose.PNG)
->
+>           
+>   ![title](/Images/imclose.PNG)
 >
 >
 >
