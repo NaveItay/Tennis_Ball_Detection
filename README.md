@@ -13,14 +13,10 @@
    * Color masks
    * Morphological operations
      - bwareaopen
-       - Remove small objects from binary image
      - imclose
-       - Morphologically close image
      - imfill
-       - Fill image regions and holes
    * Concatenate RGB arrays
    * Hough Transformation
-     - Find circles using circular Hough transform
    * Use the objects coordinates to alert when "ball in / out"
    
    
@@ -62,8 +58,9 @@
 >
 
 ###### Hough Transformation
-> ![title](/Images/explain_hough_transformation.PNG)
+> ![title](/Images/hough_on_mask.PNG)
 > * Find circles using circular Hough transform
+>   ![title](/Images/explain_hough_transformation.PNG)
 >   ``` 
 >   The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting 
 >   procedure. This voting procedure is carried out in parameter space, from which object candidates are obtained as local maxima in a
@@ -71,13 +68,13 @@
 >   ```
 >
 
-###### Color masks
-> ![title](/Images/RGB_Masks.PNG)
+###### Use the objects coordinates to alert when "ball in / out"
+> ![title](/Images/Coordinates.PNG)
 >
 
-###### Color masks
-> ![title](/Images/RGB_Masks.PNG)
+###### Video Link
 >
+> Link to [Youtube](https://youtu.be/FgB4Xg2Jxw4).
    
    
    
