@@ -23,7 +23,6 @@
      - Find circles using circular Hough transform
    * Use the objects coordinates to alert when "ball in / out"
    
-   /Images/Final_result.PNG
    
    
    
@@ -45,11 +44,11 @@
 >
 
 ###### Morphological operations
->      - bwareaopen
+>      * bwareaopen
 >        - Remove small objects from binary image
 >           ![title](/Images/RGB_Masks.PNG)
 >
->      - imclose
+>      * imclose
 >        - Remove small objects from binary image
 >          ![title](/Images/imclose.PNG)
 >
