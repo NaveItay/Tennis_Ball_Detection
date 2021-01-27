@@ -52,21 +52,23 @@
 >           
 >   ![title](/Images/imclose.PNG)
 >
+> * imfill - Fill image regions and holes
 >
->
->
->
->
->
+>   ![title](/Images/imfill.PNG)
 >
 
-
-###### Color masks
-> ![title](/Images/RGB_Masks.PNG)
+###### Concatenate RGB arrays
+> ![title](/Images/cat.PNG)
 >
 
-###### Color masks
-> ![title](/Images/RGB_Masks.PNG)
+###### Hough Transformation
+> ![title](/Images/explain_hough_transformation.PNG)
+> * Find circles using circular Hough transform
+>   ``` 
+>   The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting 
+>   procedure. This voting procedure is carried out in parameter space, from which object candidates are obtained as local maxima in a
+>   so-called accumulator space that is explicitly constructed by the algorithm for computing the Hough transform.
+>   ```
 >
 
 ###### Color masks
