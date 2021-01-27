@@ -3,7 +3,7 @@
 ###### _Home video project using MATLAB_
 ###### _Tennis Ball detection - alert when "Ball In/Out"_
 
-![title](/Images/frames.PNG)
+![title](/Images/Final_result.PNG)
 
 
 ## Project management stages:
@@ -23,6 +23,15 @@
      - Find circles using circular Hough transform
    * Use the objects coordinates to alert when "ball in / out"
    
+   /Images/Final_result.PNG
+   
+   
+   
+   # 
+   ###### Splitting the frame into color layers
+   >  ![title](/Images/frames.PNG)
+   >
+   >
    
    
    
