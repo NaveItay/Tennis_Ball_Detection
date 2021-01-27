@@ -6,5 +6,7 @@
 ![title](/Images/frames.PNG)
 
 
-
-
+## Project management stages:
+   * Splitting the frame into color layers
+   
+   
