@@ -5,6 +5,9 @@
 
 ![title](/Images/Final_result.PNG)
 
+###### Video Link
+
+- Link to [Youtube](https://youtu.be/FgB4Xg2Jxw4).
 
 ## Project management stages:
    * Splitting the frame into color layers
@@ -72,12 +75,3 @@
 ###### Use the objects coordinates to alert when "ball in / out"
 > ![title](/Images/Coordinates.PNG)
 >
-
-###### Video Link
->
-> Link to [Youtube](https://youtu.be/FgB4Xg2Jxw4).
-   
-   
-   
-     
-     
